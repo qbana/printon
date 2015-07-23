@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAGA;EACQ,kCAAA;EAHQ,aAId,EAAA","file":"app.css","sourcesContent":["$font-stack:    Helvetica, sans-serif;\r\n$primary-color: #333;\r\n\r\n.xx {\r\n  font: 100% $font-stack;\r\n  color: $primary-color;\r\n}"],"sourceRoot":"/source/"}
